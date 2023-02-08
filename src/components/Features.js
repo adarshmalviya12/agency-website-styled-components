@@ -13,7 +13,7 @@ width:50%;
 
 `
 const Image = styled.img` 
-width: 80%;
+width: 70%;
 margin-top: 20px;
 `
 // --right side --
@@ -70,7 +70,7 @@ const Features = () => {
                 </Desc>
                 <Button>Learn More</Button>
             </Right>
-            <AnimatedShapes/>
+            <AnimatedShapes />
         </Container>
     )
 }

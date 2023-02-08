@@ -48,7 +48,7 @@ const Navbar = () => {
             <Wrapper>
                 <Left>
                     <Logo>
-                        Logo
+                        Agency
                     </Logo>
                     <Menu>
                         <MenuItems>Home</MenuItems>
